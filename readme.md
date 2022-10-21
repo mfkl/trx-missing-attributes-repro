@@ -1,0 +1,1 @@
+vstest.console.exe /logger:trx .\bin\Debug\net6.0\TestProject1.dll
